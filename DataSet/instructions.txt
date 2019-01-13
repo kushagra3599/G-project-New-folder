@@ -1,0 +1,1 @@
+Images scanned will be stored here.

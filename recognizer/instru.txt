@@ -1,0 +1,2 @@
+run trainer.py (in root dir) after scanning dataSetCreator.py
+it creates trainer.yml (DO NOT DELETE THIS).
